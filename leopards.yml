@@ -1,6 +1,10 @@
 team: Leopards
 
+<<<<<<< HEAD
 manager: Nicholas-3
+=======
+manager: Nicholas-II
+>>>>>>> f42c6ce (change manager)
 
 coach: KKK
 
